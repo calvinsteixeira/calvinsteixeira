@@ -8,7 +8,6 @@
 <br>
 
 ![Calvin GitHub stats](https://github-readme-stats.vercel.app/api?username=calvinsteixeira&show_icons=true&theme=dark)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=calvinsteixeira&layout=compact)](https://github.com/calvinsteixeira/github-readme-stats)
 
 
