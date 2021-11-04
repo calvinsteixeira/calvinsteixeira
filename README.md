@@ -7,8 +7,6 @@
 </ul>
 <br>
 
-![Calvin GitHub stats](https://github-readme-stats.vercel.app/api?username=calvinsteixeira&show_icons=true&theme=dark)
-
 
 
 <code><b>📚 Currently study:</b></code>
