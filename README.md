@@ -29,7 +29,7 @@ Sou desenvolvedor Web Front-End Júnior e atualmente trabalho com serviços do s
 ![HTML](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![HTML](https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue)
 
-<b>Estou focado em projetos pessoais aplicando/estudando:</b>
+<b>Estou focado em projetos pessoais aplicando/estudando as seguintes techs:</b>
 <br>
 ![HTML](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
