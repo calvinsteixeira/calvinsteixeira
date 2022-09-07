@@ -19,9 +19,9 @@ Sou desenvolvedor Web Front-End Júnior e atualmente trabalho com serviços do s
 
 <b>Estou tendo ou já tive contato em projetos pessoais com:</b>
 <br>
+![HTML](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![HTML](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![HTML](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![HTML](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 <br>
@@ -31,8 +31,9 @@ Sou desenvolvedor Web Front-End Júnior e atualmente trabalho com serviços do s
 
 <b>Estou focado em projetos pessoais aplicando/estudando:</b>
 <br>
-![HTML](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![HTML](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+
 
 
 
