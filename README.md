@@ -2,7 +2,7 @@
 Sou desenvolvedor Web atuando em produtos que ajudam milhares de cidadãos a realizarem suas tarefas em conjunto com prefeituras municipais
 
 <ul>
-  <li>![](https://komarev.com/ghpvc/?username=calvinsteixeira)</li>
+  <li>![HTML](https://komarev.com/ghpvc/?username=calvinsteixeira)</li>
 </ul>
 
 <code><b>📚 Currently study:</b></code>
