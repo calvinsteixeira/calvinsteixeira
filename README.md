@@ -1,30 +1,15 @@
 ### Olá, me chamo Calvin! 👋
-Sou desenvolvedor Web atuando em produtos que ajudam milhares de cidadãos a realizarem suas tarefas em conjunto com prefeituras municipais
+Sou desenvolvedor Web Front-End e atualmente trabalho com serviços do setor tributário de prefeituras municipais, que ajudam milhares de cidadãos a resolverem seus problemas de forma cada vez mais acessível e tecnológica.
 
 <ul>
-  <li>/github/all-contributors/:calvinsteixeira</li>
+  <li>Atualmente trabalhando na AVMB - Soluções em TI</li>
+  <li>Prezo muito por sempre aprender e ensinar</li>
+  <li>Curto ir além do código e entender regras de negócio sobre o que estou desenvolvendo</li>
 </ul>
 
-<code><b>📚 Currently study:</b></code>
-
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-<br>
-
-<code><b>📚 I want to learn:<b></code>
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+Atualmente trabalho com:
+https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
 
 
-<br>
-
-<code><b>Social:</code></b>
-<br>
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com.br/calvin_teixeira)
 
 
