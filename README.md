@@ -3,7 +3,7 @@ Sou desenvolvedor Web Front-End Júnior e atualmente trabalho com serviços do s
 
 <ul>
   <li>Atualmente trabalhando na AVMB - Soluções em TI</li>
-  <li>Prezo muito por sempre aprender e ensinar</li>
+  <li>Aprender é sempre muito bom, mas ensinar é melhor ainda!</li>
   <li>Curto ir além do código e entender regras de negócio sobre o que estou desenvolvendo</li>
 </ul>
 
