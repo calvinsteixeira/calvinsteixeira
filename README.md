@@ -8,7 +8,7 @@ Sou desenvolvedor Web Front-End e atualmente trabalho com serviços do setor tri
 </ul>
 
 Atualmente trabalho com:
-https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+![HTML](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 
 
