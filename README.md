@@ -1,13 +1,9 @@
-### Hey, i'm Calvin 👋
-<br>
+### Olá, me chamo Calvin! 👋
+Sou desenvolvedor Web atuando em produtos que ajudam milhares de cidadãos a realizarem suas tarefas em conjunto com prefeituras municipais
 
 <ul>
-  <li>✨ On the road to become great Front-End Dev!</li>
-  <li>🗺️ Living in Santo Ângelo/RS</li>
+  <li>![](https://komarev.com/ghpvc/?username=calvinsteixeira&color=green)</li
 </ul>
-<br>
-
-
 
 <code><b>📚 Currently study:</b></code>
 
