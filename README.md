@@ -4,7 +4,7 @@
 
 - 💼 Atualmente trabalho na [Televets](https://app.televets.com.br/)
 
-- 💬 Adoro uma roda de conversa pra falar de  **tecnologia, usabilidade, soluções e arquitetura**
+- 💬 Adoro uma roda de conversa para falar de  **tecnologia, usabilidade, soluções e arquitetura**
 
 - 📚 Buscando novos conhecimentos para criar soluções cada vez mais eficientes
 
