@@ -2,7 +2,7 @@
 
 - 👨‍💻 Desenvolvedor front end web e mobile 
 
-- 💼 Atualmente trabalho na [Televets](https://app.televets.com.br/)
+- 💼 Software Developer II na Softplan
 
 - 💬 Adoro uma roda de conversa para falar de  **tecnologia, usabilidade, soluções e arquitetura**
 
